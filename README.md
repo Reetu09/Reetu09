@@ -8,18 +8,15 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,react,nextjs,html,css,tailwind,nodejs,express,mongodb,supabase,git,vercel,netlify,postman" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,,react,nextjs,html,css,tailwind,nodejs,express,mongodb,supabase,git,vercel,netlify,postman" alt="Tech stack" />
 </p>
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
+  <a href="https://www.linkedin.com/reetusingh18/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="sreetu539@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://YOUR-PORTFOLIO-URL">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
 </p>
