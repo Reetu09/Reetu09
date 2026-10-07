@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,,react,nextjs,html,css,tailwind,nodejs,express,mongodb,supabase,git,vercel,netlify,postman" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,supabase,git,vercel,netlify,postman" alt="Tech stack" />
 </p>
 
 ## 🔗 Connect with Me
